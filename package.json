@@ -56,8 +56,7 @@
   },
   "size-limit": [
     {
-      "path": "dist/
-      .cjs.production.min.js",
+      "path": "dist/react-charts-1.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
